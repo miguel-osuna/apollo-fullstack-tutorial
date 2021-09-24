@@ -18,6 +18,6 @@ cd code/client && npm i && npm start
 
 and
 
-```
+```bash
 cd code/server && npm i && npm start 
 ```
